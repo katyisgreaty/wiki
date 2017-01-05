@@ -14,3 +14,17 @@
 .logo {
   width: 100%;
 }
+
+.main-body {
+  float: right;
+}
+
+.welcome-bar {
+  background-color: grey;
+}
+
+
+
+#welcome-wiki {
+  font-size: 20px;
+}
